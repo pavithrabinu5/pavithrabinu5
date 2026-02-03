@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/cat.gif" alt="Cat Animation" width="150"/>
+</div> <br>
 # 🤍About Me:
 🔭 Building with intention — from a system-level Shell project that explores the beauty of command-line design to Android and web applications where responsiveness, clarity, and architecture coexist effortlessly.<br>
 
