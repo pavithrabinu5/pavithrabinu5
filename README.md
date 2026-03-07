@@ -1,5 +1,5 @@
-🤍About Me:
-🔭 Computer Science student focused on Artificial Intelligence and Machine Learning, exploring how intelligent systems can transform unstructured data into meaningful insights and real-world applications.<br>
+🤍About Me: <br>
+Computer Science student focused on Artificial Intelligence and Machine Learning, exploring how intelligent systems can transform unstructured data into meaningful insights and real-world applications.<br>
 
 Interested in building practical AI systems by combining machine learning models, data processing pipelines, and scalable software architecture.<br>
 
