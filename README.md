@@ -1,15 +1,11 @@
 🤍About Me:
-🔭 Building with intention — from a system-level Shell project that explores the beauty of command-line design to Android and web applications where responsiveness, clarity, and architecture coexist effortlessly.<br>
+🔭 Computer Science student focused on Artificial Intelligence and Machine Learning, exploring how intelligent systems can transform unstructured data into meaningful insights and real-world applications.<br>
 
-👯 Open to collaboration on open-source projects that value clean code, intuitive design, and meaningful impact—especially in Android, web, and educational technology. <br>
+Interested in building practical AI systems by combining machine learning models, data processing pipelines, and scalable software architecture.<br>
 
-🤝 Learning from the craft — seeking mentorship in system programming, scalable databases, API design, and DevOps practices that turn well-written code into production-ready software.<br>
+👯 Open to collaboration on open-source projects involving AI applications, data-driven systems, and tools that improve developer productivity or decision-making. <br>
 
-🌱 Growing deliberately through Full-Stack Development, DevOps, and AI integration, with a strong curiosity for OpenAI Realtime APIs and modern collaborative workflows.<br>
-
-💬 Let’s talk UI/UX, Material Design, or writing code that reads like prose and feels effortless to use.<br>
-
-🤍 Belief: the best technology is invisible—when form and function align, software becomes art.<br>
+🌱 Currently deepening my knowledge in Machine Learning, LLM applications, and AI-powered systems while continuing to strengthen my foundations in full-stack development.<br>
 
 
 ## 🌐 Socials:
