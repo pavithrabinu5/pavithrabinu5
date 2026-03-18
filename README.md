@@ -3,9 +3,9 @@ Computer Science student focused on Artificial Intelligence and Machine Learning
 
 Interested in building practical AI systems by combining machine learning models, data processing pipelines, and scalable software architecture.<br>
 
-👯 Open to collaboration on open-source projects involving AI applications, data-driven systems, and tools that improve developer productivity or decision-making. <br>
+Open to collaboration on open-source projects involving AI applications, data-driven systems, and tools that improve developer productivity or decision-making. <br>
 
-🌱 Currently deepening my knowledge in Machine Learning, LLM applications, and AI-powered systems while continuing to strengthen my foundations in full-stack development.<br>
+Currently deepening my knowledge in Machine Learning, LLM applications, and AI-powered systems while continuing to strengthen my foundations in full-stack development.<br>
 
 
 ## 🌐 Socials:
