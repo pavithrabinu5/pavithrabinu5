@@ -1,11 +1,124 @@
-🤍About Me: <br>
-Computer Science student focused on Artificial Intelligence and Machine Learning, exploring how intelligent systems can transform unstructured data into meaningful insights and real-world applications.<br>
+<h1 align="center">Pavithra Binu</h1>
+<p align="center">
+Computational Neuroscience • Clinical AI • Machine Learning Systems
+</p>
 
-Interested in building practical AI systems by combining machine learning models, data processing pipelines, and scalable software architecture.<br>
+<p align="center">
+B.Sc. Computer Science — University of West London (RAK)  
+Research Focus: Neural Decoding, Neuroimaging, Interpretable AI
+</p>
 
-Open to collaboration on open-source projects involving AI applications, data-driven systems, and tools that improve developer productivity or decision-making. <br>
+---
 
-Currently deepening my knowledge in Machine Learning, LLM applications, and AI-powered systems while continuing to strengthen my foundations in full-stack development.<br>
+## Research Overview
+
+My work lies at the intersection of **machine learning and computational neuroscience**, with an emphasis on building interpretable and clinically relevant AI systems. I am particularly interested in understanding how neural signals can be decoded, modelled, and translated into real-world applications such as brain–computer interfaces and neuroimaging diagnostics.
+
+I develop end-to-end machine learning systems that integrate **deep learning architectures, signal processing techniques, and explainability frameworks**, with a strong focus on reproducibility and research-grade evaluation.
+
+---
+
+## Research Interests
+
+- Brain–Computer Interfaces (BCI) and Neural Decoding  
+- Computational Neuroimaging (MRI-based modelling)  
+- Affective Computing and Brain–Speech Interfaces  
+- Interpretable Machine Learning in Clinical Systems  
+- Neural Signal Processing and Time-Series Analysis  
+
+---
+
+## Publications
+
+### High-Performance Brain-Computer Interfaces  
+**A Critical Evaluation of AI-Driven Neural Decoding Technologies**  
+*University of West London — Artificial Intelligence Module*  
+
+**Author:** Pavithra Binu  
+
+This work presents a structured evaluation of five landmark brain–computer interface (BCI) studies published between 2006 and 2023, analysing the evolution of neural decoding systems from early intracortical interfaces to modern speech and motor restoration technologies.
+
+**Key Contributions**
+- Identifies a **4–5× increase in communication bandwidth (2019–2023)** driven by a transition toward decoding internal motor representations.  
+- Traces the progression of decoding architectures from **linear models and Kalman filters to deep recurrent networks and LLM-integrated systems**.  
+- Synthesises findings across high-impact literature (*Nature*, *The Lancet*) to evaluate clinical readiness and system scalability.  
+
+**Critical Gaps**
+- Long-term neural signal stability remains unproven (>5 years)  
+- Lack of participant generalisation across studies  
+- Minimal integration of sensory feedback (bidirectional systems)  
+- Limited standardisation of evaluation metrics  
+- Weak translation from laboratory prototypes to clinical deployment  
+
+---
+
+## Selected Research Projects
+
+### Brain Tumor MRI Classification  
+**97% Accuracy · 0.99 AUC-ROC**  
+- Multi-class neuroimaging pipeline using EfficientNet, ResNet50, and Vision Transformers  
+- Grad-CAM-based interpretability for localisation of tumour regions  
+- Designed for reproducibility and extension in clinical research settings  
+
+### Prognos — Clinical Prediction System  
+**99.1% Accuracy · AUC 0.999**  
+- Ensemble-based disease risk prediction across oncology and cardiovascular domains  
+- Incorporates class imbalance correction (SMOTE) and feature engineering  
+- Evaluated using clinically relevant metrics (F1, AUC-ROC, precision/recall)  
+
+### Speech Emotion Recognition  
+**86% Accuracy · 0.85 F1-score**  
+- CNN–BiLSTM architecture with attention for affective state classification  
+- Applications in affective neuroscience and brain–speech interface modelling  
+
+### Milo — Real-Time AI System  
+**~400ms End-to-End Latency**  
+- Streaming speech-to-intelligence pipeline (ASR → LLM → structured outputs)  
+- Demonstrates architectural parallels to real-time neural signal processing systems  
+
+---
+
+## Technical Expertise
+
+**Machine Learning & Deep Learning**  
+PyTorch · TensorFlow · Scikit-learn  
+
+**Architectures & Methods**  
+CNNs · Vision Transformers · BiLSTM + Attention · Transfer Learning · Ensemble Methods  
+
+**Scientific & Clinical Data**  
+Medical Imaging (MRI) · Clinical Datasets · Audio Signal Processing  
+
+**Systems & Infrastructure**  
+FastAPI · Docker · PostgreSQL · WebSockets · Reproducible ML Pipelines  
+
+---
+
+## Academic Background
+
+**B.Sc. Computer Science**  
+University of West London, RAK Branch Campus  
+2024 – 2027  
+GPA: 3.8 / 4.0  
+
+---
+
+## Current Work
+
+I am actively seeking opportunities to contribute to research in **computational neuroscience and computational biology**, particularly in areas involving neural data, brain–computer interfaces, and clinically deployable AI systems.
+
+---
+
+## Contact
+
+Email: your@email.com  
+LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+<p align="center">
+<i>Open to research collaborations and remote research assistant positions.</i>
+</p>
 
 
 ## 🌐 Socials:
